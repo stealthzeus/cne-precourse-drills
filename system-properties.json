@@ -44,14 +44,8 @@
   "awt.toolkit": "sun.awt.windows.WToolkit",
   "java.vm.info": "mixed mode",
   "java.version": "1.8.0_122-ea",
-  "java.ext.dirs": "C:\\Program Files\\Java\\jre1.8.0_122\\lib\\ext;C:\\Windows\
-\Sun\\Java\\lib\\ext",
-  "sun.boot.class.path": "C:\\Program Files\\Java\\jre1.8.0_122\\lib\\resources.
-jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\rt.jar;C:\\Program Files\\Java\\
-jre1.8.0_122\\lib\\sunrsasign.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\js
-se.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\jce.jar;C:\\Program Files\\Ja
-va\\jre1.8.0_122\\lib\\charsets.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\
-jfr.jar;C:\\Program Files\\Java\\jre1.8.0_122\\classes",
+  "java.ext.dirs": "C:\\Program Files\\Java\\jre1.8.0_122\\lib\\ext;C:\\Windows\\Sun\\Java\\lib\\ext",
+  "sun.boot.class.path": "C:\\Program Files\\Java\\jre1.8.0_122\\lib\\resources.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\rt.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\sunrsasign.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\jsse.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\jce.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\charsets.jar;C:\\Program Files\\Java\\jre1.8.0_122\\lib\\jfr.jar;C:\\Program Files\\Java\\jre1.8.0_122\\classes",
   "sun.stderr.encoding": "cp437",
   "java.vendor": "Oracle Corporation",
   "file.separator": "\\",
